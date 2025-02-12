@@ -4,6 +4,7 @@ DOMAIN-SUFFIX,cavps.eu.org
 DOMAIN-SUFFIX,niceduck.lol
 DOMAIN-SUFFIX,emby.moe
 DOMAIN-SUFFIX,xmsl.org
+DOMAIN-SUFFIX,lemby.me
 DOMAIN-KEYWORD,niceduck
 DOMAIN-REGEX,(?i)emby|tsukimi
 IP-CIDR,45.196.236.212/32,no-resolve
