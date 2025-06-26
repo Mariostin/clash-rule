@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,313445.xyz
 DOMAIN-SUFFIX,lemby.me
 DOMAIN-SUFFIX,chuncheon123.xyz
 DOMAIN-SUFFIX,313445.xyz
+DOMAIN-SUFFIX,rfchost.com
 DOMAIN-KEYWORD,niceduck
 DOMAIN-REGEX,(?i)emby|tsukimi
 IP-CIDR,45.196.236.212/32,no-resolve
