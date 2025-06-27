@@ -1,0 +1,17 @@
+# 代理补充列表,解决部分网站访问问题
+DOMAIN-SUFFIX,emby.moe
+DOMAIN-SUFFIX,lemby.me
+DOMAIN-SUFFIX,emby.aikan.la
+DOMAIN-SUFFIX,cavps.eu.org
+DOMAIN-SUFFIX,niceduck.lol
+DOMAIN-SUFFIX,xmsl.org
+DOMAIN-SUFFIX,niceduck.lol
+DOMAIN-SUFFIX,313445.xyz
+DOMAIN-SUFFIX,chuncheon123.xyz
+DOMAIN-KEYWORD,niceduck
+DOMAIN-REGEX,(?i)emby|tsukimi
+IP-CIDR,45.196.236.212/32,no-resolve
+IP-CIDR,104.21.67.217/32,no-resolve
+IP-CIDR,172.67.181.101/32,no-resolve
+
+
