@@ -11,6 +11,9 @@ DOMAIN-SUFFIX,lemby.me
 DOMAIN-SUFFIX,chuncheon241.top
 DOMAIN-SUFFIX,chuncheon123.xyz
 DOMAIN-SUFFIX,niceduck.lol
+DOMAIN-SUFFIX,xmsl.org
+DOMAIN-SUFFIX,emby.moe
+DOMAIN-SUFFIX,xxlb.net
 DOMAIN-REGEX,(?i)emby|tsukimi
 IP-CIDR,45.196.236.212/32,no-resolve
 IP-CIDR,104.21.67.217/32,no-resolve
