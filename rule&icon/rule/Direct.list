@@ -40,7 +40,7 @@ DOMAIN-SUFFIX,onyra.cc
 DOMAIN-SUFFIX,irisnb.com
 DOMAIN-SUFFIX,jaooh.top
 DOMAIN-SUFFIX,jaooh.xyz
-DOMAIN-SUFFIX,jaooh.com
+IP-CIDR,172.81.111.122/32
 
 
 
