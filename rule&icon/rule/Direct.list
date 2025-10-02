@@ -44,8 +44,7 @@ DOMAIN-SUFFIX,us.lemby.me
 DOMAIN-SUFFIX,luodai.irisnb.com
 DOMAIN-SUFFIX,ytcdn.irisnb.com
 DOMAIN-SUFFIX,apachk.irisnb.com
-IP-CIDR,172.81.111.122/32
-IP-CIDR,23.249.27.25/32
+23.249.27.25/32
 
 
 
