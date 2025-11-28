@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,iill.top
 DOMAIN-SUFFIX,edgeone.ai
 DOMAIN-SUFFIX,tencentcloud.com
 DOMAIN-SUFFIX,hk.chinamobile.com
+IP-CIDR,22.22.22.22/32,no-resolve
 
 
 
