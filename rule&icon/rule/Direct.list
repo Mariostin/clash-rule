@@ -48,7 +48,6 @@ DOMAIN-SUFFIX,tv.micu.hk
 DOMAIN-SUFFIX,tv1.micu.hk
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,cloud.emby.moe
-DOMAIN-SUFFIX,lilyemby.com
 DOMAIN-SUFFIX,qing2000.com
 DOMAIN-SUFFIX,gzszv6.top
 DOMAIN-SUFFIX,xhscdn.com
@@ -65,6 +64,9 @@ DOMAIN-SUFFIX,iris4837.iris520.us
 DOMAIN-SUFFIX,ak4837.iris520.us
 DOMAIN-SUFFIX,ak4837.iris520.us
 DOMAIN-SUFFIX,cf.iris520.us
+DOMAIN-SUFFIX,cdn.lilyemby.com
+DOMAIN-SUFFIX,aliyun.lilyemby.com
+
 
 
 
