@@ -14,7 +14,8 @@ DOMAIN-SUFFIX,niceduck.lol
 DOMAIN-SUFFIX,xmsl.org
 DOMAIN-SUFFIX,emby.moe
 DOMAIN-SUFFIX,xxlb.net
-DOMAIN-SUFFIX,media.micu.hk
+DOMAIN-SUFFIX,cdn.irisnb.com
+DOMAIN-SUFFIX,byteiris.iris520.us
 IP-CIDR,45.196.236.212/32,no-resolve
 IP-CIDR,104.21.67.217/32,no-resolve
 IP-CIDR,172.67.181.101/32,no-resolve
