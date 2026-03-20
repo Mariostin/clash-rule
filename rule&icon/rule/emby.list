@@ -18,6 +18,8 @@ DOMAIN-SUFFIX,cdn.irisnb.com
 DOMAIN-SUFFIX,as174.de
 DOMAIN-SUFFIX,byteiris.iris520.us
 DOMAIN-SUFFIX,iris.niceduck.lol
+DOMAIN-SUFFIX,startspoint.com
+DOMAIN-SUFFIX,28.al
 IP-CIDR,45.196.236.212/32,no-resolve
 IP-CIDR,104.21.67.217/32,no-resolve
 IP-CIDR,172.67.181.101/32,no-resolve
