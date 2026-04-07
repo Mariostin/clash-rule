@@ -10,7 +10,7 @@ DOMAIN-SUFFIX,servd-anthropic-website.b-cdn.net
 DOMAIN-SUFFIX,anthropic.auth0.com
 DOMAIN-SUFFIX,nthropic-com.ghost.io
 DOMAIN-SUFFIX,sentry.io
-DOMAIN-SUFFIXstatsigapi.net
+DOMAIN-SUFFIX,statsigapi.net
 DOMAIN-KEYWORD,datadog
 DOMAIN-KEYWORD,sentry
 DOMAIN-KEYWORD,sift
