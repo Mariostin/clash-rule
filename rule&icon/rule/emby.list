@@ -16,9 +16,11 @@ DOMAIN-SUFFIX,emby.moe
 DOMAIN-SUFFIX,xxlb.net
 DOMAIN-SUFFIX,cdn.irisnb.com
 DOMAIN-SUFFIX,as174.de
-DOMAIN-SUFFIX,byteiris.iris520.us
+DOMAIN-SUFFIX,byteiris.iris520.vip
 DOMAIN-SUFFIX,iris.niceduck.lol
 DOMAIN-SUFFIX,startspoint.com
+DOMAIN-SUFFIX,lilyemby.com
+DOMAIN-SUFFIX,lilyemby.cc
 IP-CIDR,45.196.236.212/32,no-resolve
 IP-CIDR,104.21.67.217/32,no-resolve
 IP-CIDR,172.67.181.101/32,no-resolve
