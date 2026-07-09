@@ -14,3 +14,7 @@ DOMAIN-SUFFIX,nodeseek.com
 DOMAIN-SUFFIX,nodeimage.com
 DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,clubsim.com.hk
+IP-CIDR,78.105.182.0/24,no-resolve
+IP-CIDR,103.97.175.0/24,no-resolve
+IP-CIDR,103.97.175.0/24,no-resolve
+DOMAIN-SUFFIX,eset.com
