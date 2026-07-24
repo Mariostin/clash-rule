@@ -17,4 +17,5 @@ DOMAIN-SUFFIX,clubsim.com.hk
 IP-CIDR,78.105.182.0/24,no-resolve
 IP-CIDR,103.97.175.0/24,no-resolve
 IP-CIDR,82.110.234.0/24,no-resolve
+IP-CIDR,82.109.96.0/24,no-resolve
 DOMAIN-SUFFIX,eset.com
