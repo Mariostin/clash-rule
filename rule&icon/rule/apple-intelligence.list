@@ -1,24 +1,33 @@
-# Apple Intelligence / Siri / Relay 建议走美国节点规则
+# Apple Intelligence / Siri / Relay 建议走美国节点规则（极致精简版）
+
+# DOMAIN
 DOMAIN,guzzoni.apple.com
-DOMAIN-SUFFIX,smoot.apple.com
-DOMAIN-SUFFIX,apple-relay.cloudflare.com
-DOMAIN-SUFFIX,apple-relay.fastly-edge.com
-DOMAIN-SUFFIX,cp4.cloudflare.com
-DOMAIN-SUFFIX,apple-relay.apple.com
-DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com
-DOMAIN-KEYWORD,apple-relay
 DOMAIN,identity.apple.com
-DOMAIN-SUFFIX,push.apple.com
+DOMAIN,mask-api.fe.apple-dns.net
+DOMAIN,mask-api.icloud.com
+DOMAIN,mask-t.apple-dns.net
+DOMAIN,mask.apple-dns.net
+
+# DOMAIN-SUFFIX
 DOMAIN-SUFFIX,akadns.net
+DOMAIN-SUFFIX,apps.mzstatic.com
+DOMAIN-SUFFIX,cp4.cloudflare.com
+DOMAIN-SUFFIX,gateway.icloud.com
+DOMAIN-SUFFIX,ls.apple.com
+DOMAIN-SUFFIX,mask-h2.icloud.com
+DOMAIN-SUFFIX,mask.icloud.com
+DOMAIN-SUFFIX,push.apple.com
+DOMAIN-SUFFIX,smoot.apple.com
+
+# DOMAIN-KEYWORD
+DOMAIN-KEYWORD,apple-relay
 DOMAIN-KEYWORD,apple.com.edgekey.net
+
 # IPv4
-IP-CIDR,17.249.0.0/16,no-resolve
-IP-CIDR,17.252.0.0/16,no-resolve
-IP-CIDR,17.57.144.0/22,no-resolve
-IP-CIDR,17.188.128.0/18,no-resolve
-IP-CIDR,17.188.20.0/23,no-resolve
+IP-CIDR,17.0.0.0/8,no-resolve
+
 # IPv6
-IP-CIDR6,2620:149:a44::/48,no-resolve
 IP-CIDR6,2403:300:a42::/48,no-resolve
 IP-CIDR6,2403:300:a51::/48,no-resolve
+IP-CIDR6,2620:149:a44::/48,no-resolve
 IP-CIDR6,2a01:b740:a42::/48,no-resolve
