@@ -1,4 +1,4 @@
-# Apple Intelligence / Siri / Relay 建议走美国节点规则（极致精简版）
+# Apple Intelligence / Siri / Relay 规则合并精简版
 
 # DOMAIN
 DOMAIN,guzzoni.apple.com
@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,akadns.net
 DOMAIN-SUFFIX,apps.mzstatic.com
 DOMAIN-SUFFIX,cp4.cloudflare.com
 DOMAIN-SUFFIX,gateway.icloud.com
+DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com
 DOMAIN-SUFFIX,ls.apple.com
 DOMAIN-SUFFIX,mask-h2.icloud.com
 DOMAIN-SUFFIX,mask.icloud.com
@@ -22,6 +23,7 @@ DOMAIN-SUFFIX,smoot.apple.com
 # DOMAIN-KEYWORD
 DOMAIN-KEYWORD,apple-relay
 DOMAIN-KEYWORD,apple.com.edgekey.net
+DOMAIN-KEYWORD,siri
 
 # IPv4
 IP-CIDR,17.0.0.0/8,no-resolve
